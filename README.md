@@ -49,6 +49,18 @@ echoverse-demo/
 
 ---
 
+## ⚠️ Important: Public Channel & Server IDs
+
+At the end of development, two public channels were added for demo and public access purposes. For simplicity and to ensure these channels are always available, their `serverId` and `channelId` values are statically defined in [`utils/public-channel-info.tsx`](utils/public-channel-info.tsx).
+
+- These IDs are hardcoded for the original deployment and are not dynamically generated.
+- **If you clone or deploy this project, you must update these IDs** to match your own server/channel setup, or the public features may not work as intended.
+- To update: Create new servers/channels in your instance and replace the IDs in `utils/public-channel-info.tsx` accordingly.
+
+This approach was chosen to quickly enable public/demo channels at the end of the project. For a production-grade system, consider a more dynamic or admin-configurable approach.
+
+---
+
 ## 📝 Getting Started
 1. **Clone the repository:**
    ```bash
