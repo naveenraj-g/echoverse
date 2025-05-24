@@ -2,8 +2,6 @@
 
 EchoVerse is an innovative online collaborative learning platform designed to bring learners together in a vibrant community. It features real-time chat, collaborative code practice, quizzes, and more—empowering users to connect, share knowledge, and grow together.
 
-![EchoVerse Banner](public/logo/icon.png)
-
 ---
 
 ## 🚀 Features
