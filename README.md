@@ -6,6 +6,7 @@ EchoVerse is an innovative online collaborative learning platform designed to br
 
 ## 🚀 Features
 - **Real-Time Collaboration:** Chat in public or private channels, direct messages, and servers. Powered by Socket.io for live updates.
+- **AI Chatbot:** Integrated AI assistant that can answer questions about the application and help with educational topics.
 - **Code Playground:** Practice coding directly in the browser with syntax highlighting and code execution.
 - **Quizzes:** Challenge yourself with interactive quizzes on aptitude, logical reasoning, and DSA.
 - **User Authentication:** Secure sign-in/sign-up with Clerk.
