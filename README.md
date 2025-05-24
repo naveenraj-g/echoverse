@@ -5,12 +5,12 @@ EchoVerse is an innovative online collaborative learning platform designed to br
 ---
 
 ## 🚀 Features
-- **Real-Time Collaboration:** Chat in public or private channels, direct messages, and servers.
+- **Real-Time Collaboration:** Chat in public or private channels, direct messages, and servers. Powered by Socket.io for live updates.
 - **Code Playground:** Practice coding directly in the browser with syntax highlighting and code execution.
 - **Quizzes:** Challenge yourself with interactive quizzes on aptitude, logical reasoning, and DSA.
 - **User Authentication:** Secure sign-in/sign-up with Clerk.
 - **Audio/Video Rooms:** Powered by LiveKit for seamless communication.
-- **File Uploads:** Easily share files within channels.
+- **File Uploads:** Easily share files within channels, utilizing UploadThing for cloud file uploads.
 - **Modern UI/UX:** Built with TailwindCSS, Radix UI, and Framer Motion for a beautiful experience.
 - **Database:** Prisma ORM with PostgreSQL for robust data management.
 
